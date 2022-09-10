@@ -1,6 +1,4 @@
-# Practice of the Formik library for React
-
-Simply creation of a form
+# Reducer practice
 
 ## How do I test the app?
 
