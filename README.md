@@ -1,5 +1,7 @@
 # Reducer practice
 
+Cart creation using reducers
+
 ## How do I test the app?
 
 - clone
